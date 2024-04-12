@@ -8,6 +8,5 @@ matplotlib
 baal
 pil
 gradio
-cudnn
 cv2
 opencv
